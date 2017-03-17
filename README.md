@@ -39,7 +39,7 @@ To select a self-paced meditation session:
 Choose time (in minutes) - The default is 2 minutes. You may increase or decrease as you wish.
 Select the meditation type: 
 
-  1. Meditate with the Master - The Master, His Holiness Sri Sri Muralidhara Swamiji, chants the Mahamantra. You may close your eyes, listen to the chanting and then repeat after him. Do this repeatedly until the timer ends.
+  1. Meditate with the Master - The Master, chants the Mahamantra. You may close your eyes, listen to the chanting and then repeat after him. Do this repeatedly until the timer ends.
      
   2. Background Drone - If you prefer to chant on your own, then select this option. This plays a simple drone in the background. You can close your eyes and do the chanting yourself. 
 
