@@ -86,6 +86,12 @@ class MeditateMasterView: UIViewController{
             
             btnStart.setTitle("Pause", for: .normal)
             audioPlayer.numberOfLoops = -1
+            
+            if(speedButtonType==""){
+                speed1X.isEnabled=true
+                speed1X.alpha=1.0
+            }
+            
             if(speedButtonType=="Fast"){
                 audioPlayer.enableRate=true
                 audioPlayer.rate=1.66666666
@@ -102,7 +108,8 @@ class MeditateMasterView: UIViewController{
                 audioPlayer.rate=1.33333338
                 audioPlayer.play()
             }
-            else{
+            else {
+                audioPlayer.enableRate=false
                 audioPlayer.play()
             }
             self.lblMahamantra.fadeIn(completion: {
@@ -149,6 +156,7 @@ class MeditateMasterView: UIViewController{
         speed2X.alpha=0.5
         
         speedButtonType=""
+        print ("my speed:",speedButtonType)
     }
    
    // This function starts counting the time has seconds and Minutes counting and will run to completeing until the time ends. If need a reset the reset button can be used.
