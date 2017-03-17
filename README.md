@@ -15,16 +15,16 @@ Modules in the app:
           a. Meditate with the Master
           b. Background Drone.
           
-  ==================
+  
   Guided Meditation:
-  ==================
+  -----------------
          This module is a partial support for the people, were the instructor will help to chant a Mantra using 6-3-2 pattern. This will go for 12 minutes and the instructor will suggest on how to perform the Mediation.
          
          Users can start and follow the instruction and do Meditation. If need they can pause/continue with the help of the button provided.
 
-======================
+
 Self Paced Meditation:         
-======================
+----------------------
    This Module is to help the user to Meditate on their own with a minimum help, such as , Meditate with the Master.
    If the User know what they want to do they can use background Drone (music helps to calm your Mind and to focus on Meditation) can be used.
    
